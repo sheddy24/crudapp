@@ -1,0 +1,8 @@
+.food-div{
+    background-color: aqua;
+    width: 150px;
+    margin: auto;
+    margin: 1px solid blue;
+    padding: 30px;
+    border-radius: 20px;
+}

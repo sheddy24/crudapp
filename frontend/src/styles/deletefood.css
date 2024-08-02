@@ -1,0 +1,16 @@
+.delete{
+    width: 200px;
+    border: 2px solid red;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 20px;
+}
+
+.deletebtn{
+    width: auto;
+    background-color: red;
+    padding: 4px;
+}
